@@ -125,10 +125,6 @@ Please feel free to open issues or submit pull requests.
 - **PyTorch team** for building such an elegant framework
 - **ChatGPT** for patient tutoring through the mathematical concepts
 
-## 📞 Connect
-
-If this project helped you understand deep learning better, I'd love to hear about it!
-
 
 - 📝 [Medium Profile]
 
